@@ -1,4 +1,4 @@
-package examples;
+package examples.functional_extending;
 
 import java.util.Vector;
 
